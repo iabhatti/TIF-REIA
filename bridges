@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Armitage Ave. bridge"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.66644597053528,
+            41.91817381736896
+          ],
+          [
+            -87.66436457633972,
+            41.91898811116528
+          ],
+          [
+            -87.6628303527832,
+            41.91917172499743
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Dominick St. bridge"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.66435384750366,
+            41.91899609438636
+          ],
+          [
+            -87.66242265701294,
+            41.91458122070013
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Concord Pl. bridge"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.66067385673523,
+            41.91266508645202
+          ],
+          [
+            -87.65676856040955,
+            41.91417404698555
+          ]
+        ]
+      }
+    }
+  ]
+}
